@@ -1,4 +1,2 @@
-sails-demo
-==========
-
-Sail JS demo app
+# delphis-test
+### a Sails application
